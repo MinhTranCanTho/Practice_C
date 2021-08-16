@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Git\Practice_C\Convert_string_to_char_array\lesson2\lesson2\Source.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Convert_string_to_char_array\lesson2\lesson2\Source.cpp(12,9): warning C4018: '<': signed/unsigned mismatch
+  lesson2.vcxproj -> D:\Git\Practice_C\Convert_string_to_char_array\lesson2\Debug\lesson2.exe
