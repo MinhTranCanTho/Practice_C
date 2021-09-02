@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Git\Practice_C\Practice_C_on_Leetcode\lesson\lesson\main.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\lesson\lesson\main.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\lesson\lesson\main.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\lesson\lesson\main.cpp(26,35): warning C4018: '<': signed/unsigned mismatch
+  lesson.vcxproj -> D:\Git\Practice_C\Practice_C_on_Leetcode\lesson\Debug\lesson.exe
