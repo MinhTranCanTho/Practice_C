@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Git\Practice_C\Practice_C_on_Leetcode\Reverse_integer\Reverse_integer\Source.cpp(20): warning C4715: 'Solution::reserve': not all control paths return a value
+  Reverse_integer.vcxproj -> D:\Git\Practice_C\Practice_C_on_Leetcode\Reverse_integer\Debug\Reverse_integer.exe
