@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(14,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(16,27): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(18,35): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(20,39): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(31,31): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(33,29): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(35,72): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(45,31): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(47,39): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(58,31): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(76,31): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(78,39): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(90,31): warning C4018: '<': signed/unsigned mismatch
+D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Project1\main.cpp(92,39): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Git\Practice_C\Practice_C_on_Leetcode\3sum_closet\Project1\Debug\Project1.exe
